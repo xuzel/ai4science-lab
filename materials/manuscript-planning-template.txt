@@ -1,0 +1,32 @@
+AI4Science Learning Resource: Manuscript Planning Template
+Prepared for the education directory, October 31, 2026.
+This is a newly prepared study aid, not a transcript of the online course.
+
+Working title:
+Main research question:
+Audience and intended journal:
+
+Introduction
+- What is established? Cite original evidence.
+- What specific gap remains?
+- What question does this study address?
+- What does this work contribute, within its evidence limits?
+
+Related work
+- Which methods and findings are directly relevant?
+- How does this work differ? Avoid unsupported novelty claims.
+
+Methods
+- Data provenance and inclusion criteria:
+- Experimental or computational workflow:
+- Controls, evaluation, validation and reproducibility details:
+
+Results
+- List each main finding and its supporting figure or table.
+- Distinguish measured values from predictions.
+
+Discussion
+- Interpretation, limitations, alternative explanations and next experiments:
+
+Revision checklist
+Check claims, references, units, figure legends, methods and data availability.

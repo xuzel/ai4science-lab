@@ -1,0 +1,30 @@
+AI4Science Learning Resource: Research Project Log
+Prepared for the education directory, October 31, 2026.
+Based on the platform learning cycle: design, compute, experiment, learn.
+
+Project title:
+Contributors and date:
+Scientific question:
+Success criteria:
+
+Data
+Source / version / accession:
+Permissions and access conditions:
+Sample selection and missing information:
+
+Computation
+Software and model version:
+Inputs, parameters and random seeds:
+Outputs and quality checks:
+
+Validation
+Experimental design or independent validation data:
+Controls and potential confounders:
+Observed results:
+Disagreement with predictions:
+
+Learning and next steps
+What changed in our understanding?
+What evidence is still needed?
+Next action, responsible person and due date:
+Files and reproducibility notes:

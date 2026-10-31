@@ -1,0 +1,20 @@
+AI4Science Learning Resource: Literature Review Checklist
+Prepared for the education directory, October 31, 2026.
+This is a newly prepared study aid, not a transcript of the online course.
+
+1. Define a focused question and list key concepts and synonyms.
+2. Record the databases, search strings, dates and inclusion criteria.
+3. Read the original papers. Record DOI, study design, data, methods and limitations.
+4. Separate observations from interpretations and model predictions.
+5. Compare findings in a table; record differences in methods and conditions.
+6. Identify what remains unresolved and explain why your question matters.
+7. Check every citation against its source before submitting a draft.
+
+Reading log template
+Citation / DOI:
+Research question:
+Data and experimental design:
+Main result:
+Limitations:
+Relevance to my project:
+Next question:
