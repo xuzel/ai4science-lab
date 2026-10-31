@@ -1,0 +1,70 @@
+{
+  "checkedAt": "2026-10-31",
+  "selectionType": "Curated snapshot from original news sources",
+  "directions": {
+    "immunology": [
+      [
+        "2026-08-11",
+        "NIH",
+        "Immune cells cross blood-brain barrier during human aging",
+        "https://www.nih.gov/news-events/nih-research-matters/immune-cells-cross-blood-brain-barrier-during-human-aging",
+        "Human tissue research traces a contribution of bone-marrow-derived immune cells to the aging brain."
+      ],
+      [
+        "2026-07-14",
+        "NIH",
+        "Sleep and exercise may reduce mutation-driven inflammation",
+        "https://www.nih.gov/news-events/nih-research-matters/sleep-exercise-may-reduce-mutation-driven-inflammation",
+        "Human and mouse findings connect lifestyle, clonal hematopoiesis and mutation-dependent inflammatory effects."
+      ]
+    ],
+    "metabolism": [
+      [
+        "2026-10-14",
+        "NIH",
+        "A blood-pressure drug may activate health-promoting brown fat",
+        "https://www.nih.gov/news-events/news-releases/blood-pressure-drug-may-activate-health-promoting-brown-fat",
+        "Clinical data analysis and mouse experiments investigate losartan and brown-fat activity; human mechanisms need further study."
+      ],
+      [
+        "2026-05-22",
+        "NIH",
+        "NIH researchers identify avenue for enhanced GLP-1-induced weight loss",
+        "https://www.nih.gov/news-events/news-releases/nih-researchers-identify-avenue-enhanced-glp-1-induced-weight-loss",
+        "Mouse experiments examine neuronal signaling linked to semaglutide responses and future metabolic research."
+      ]
+    ],
+    "aging": [
+      [
+        "2026-07-01",
+        "NIH",
+        "Senescent cells mapped in human body over the lifespan",
+        "https://www.nih.gov/news-events/nih-research-matters/senescent-cells-mapped-human-body-over-lifespan",
+        "SenNet studies map senescent cells and molecular signatures across tissues as a resource for aging research."
+      ],
+      [
+        "2026-02-24",
+        "NIH",
+        "Manipulating gene activity to reverse aging",
+        "https://www.nih.gov/news-events/nih-research-matters/manipulating-gene-activity-reverse-aging",
+        "Transcription-factor studies in aged cells and mouse follow-up explore age-associated expression; human rejuvenation is not established."
+      ]
+    ],
+    "virtual-biology": [
+      [
+        "2026-10-05",
+        "Arc Institute",
+        "PIE: predicting responses in unseen conditions",
+        "https://arcinstitute.org/news/pie",
+        "A preprint model uses curated biological knowledge to predict population-level perturbation responses in new contexts."
+      ],
+      [
+        "2026-03-10",
+        "Nature",
+        "Virtual cell captures bacterial division",
+        "https://www.nature.com/articles/d41586-026-00786-4",
+        "A news report describes whole-cell bacterial growth and division simulation. The modeled organism is bacterial, not human."
+      ]
+    ]
+  }
+}
